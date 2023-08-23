@@ -37,7 +37,7 @@ This project demonstrates the integration of Spring Boot with Redis caching to c
 
 ## Contributions
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [Issues](link-to-issues) page.
+Contributions, issues, and feature requests are welcome! Feel free to check the [Issues]([link-to-issues](https://github.com/faizal108/RestAPI_Redis_caching_db/issues)) page.
 
 ## License
 
